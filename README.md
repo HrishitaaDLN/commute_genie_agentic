@@ -8,14 +8,6 @@ The system follows a **manager–worker–critic architecture** implemented usin
 
 ---
 
-## 👥 Team Members
-
-- **Sujith Thota (sthot10)** – System architecture, Manager Agent, Context Agent, backend orchestration, Google Directions API integration
-- **Lakshmi Naga Hrishitaa Dharmavarapu (ldhar)** – Transport Agent, Google Maps API integration, frontend, documentation
-- **Shared Work** – Critic Agent, Trip Planner Agent, testing, prompt refinement, integration
-
----
-
 ## Project Overview
 
 Commuters often need to check multiple sources before making a transportation decision:
